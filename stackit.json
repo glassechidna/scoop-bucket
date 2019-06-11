@@ -1,12 +1,12 @@
 {
-    "version": "0.0.31",
+    "version": "0.0.32",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glassechidna/stackit/releases/download/0.0.31/stackit_0.0.31_Windows_x86_64.tar.gz",
+            "url": "https://github.com/glassechidna/stackit/releases/download/0.0.32/stackit_0.0.32_Windows_x86_64.tar.gz",
             "bin": [
                 "stackit.exe"
             ],
-            "hash": "341a53601c8b65b679ef26c5112acb39e2660c85584d8303e4898608cacf97f2"
+            "hash": "137a77e14034eab432eeb753d5c8883cb44701638dada9d7d5e908807c34297a"
         }
     },
     "homepage": "https://github.com/glassechidna/stackit",
