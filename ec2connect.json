@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glassechidna/ec2connect/releases/download/0.0.1/ec2connect_0.0.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/glassechidna/ec2connect/releases/download/0.0.2/ec2connect_0.0.2_Windows_x86_64.tar.gz",
             "bin": [
                 "ec2connect.exe"
             ],
-            "hash": "496168208a380ae00704aa34cc888a4feed79536fc2e1117dd59153b4b9cf4bc"
+            "hash": "8107dc2f4a833e21ba69fdb72b1a5885d973499e0d23f7bbcb32b3c876618035"
         }
     },
     "homepage": "https://github.com/glassechidna/ec2connect",
