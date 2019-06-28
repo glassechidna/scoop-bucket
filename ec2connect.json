@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/glassechidna/ec2connect/releases/download/0.0.1/ec2connect_0.0.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "ec2connect.exe"
+            ],
+            "hash": "496168208a380ae00704aa34cc888a4feed79536fc2e1117dd59153b4b9cf4bc"
+        }
+    },
+    "homepage": "https://github.com/glassechidna/ec2connect",
+    "license": "MIT",
+    "description": "ec2connect is a convenient SSH wrapper around EC2 instance connect"
+}
