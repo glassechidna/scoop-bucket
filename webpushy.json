@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glassechidna/webpushy/releases/download/0.1.1/webpushy_0.1.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/glassechidna/webpushy/releases/download/0.2.0/webpushy_0.2.0_Windows_x86_64.tar.gz",
             "bin": [
                 "webpushy.exe"
             ],
-            "hash": "98c5b341869fe899e1715879dbb77c0f801b26f8f0ac81bfd14c27b39604fe91"
+            "hash": "c1cb38bc97e7e4c9fd17fa5fbc9c75134904374df986e901f0afd05228c17eb2"
         }
     },
     "homepage": "https://github.com/glassechidna/webpushy",
