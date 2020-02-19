@@ -1,0 +1,14 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/glassechidna/webpushy/releases/download/0.1.1/webpushy_0.1.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "webpushy.exe"
+            ],
+            "hash": "98c5b341869fe899e1715879dbb77c0f801b26f8f0ac81bfd14c27b39604fe91"
+        }
+    },
+    "homepage": "https://github.com/glassechidna/webpushy",
+    "description": "webpushy is a CLI for sending and receiving small payloads using web browser push services"
+}
