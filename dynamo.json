@@ -1,19 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
-        "32bit": {
-            "url": "https://github.com/glassechidna/dynamo/releases/download/0.4.0/dynamo_0.4.0_Windows_i386.tar.gz",
-            "bin": [
-                "dynamo.exe"
-            ],
-            "hash": "52046e0b09c9d7be6294383951c2e15d127026fa32958af75104ebd6d1191d8a"
-        },
         "64bit": {
-            "url": "https://github.com/glassechidna/dynamo/releases/download/0.4.0/dynamo_0.4.0_Windows_x86_64.tar.gz",
+            "url": "https://github.com/glassechidna/dynamo/releases/download/0.5.0/dynamo_0.5.0_Windows_x86_64.tar.gz",
             "bin": [
                 "dynamo.exe"
             ],
-            "hash": "37ffd00550f8a64219f55e82865343bd384c350920b78c4b21d8addce4d0f6d5"
+            "hash": "25536af8968d197fc72b7ee23a6f3793493bb641579be40298dc21889b163503"
         }
     },
     "homepage": "https://github.com/glassechidna/dynamo",
