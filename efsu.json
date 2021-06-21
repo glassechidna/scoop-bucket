@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/glassechidna/efsu/releases/download/v0.2.0/efsu_0.2.0_windows_amd64.tar.gz",
+            "bin": [
+                "efsu.exe"
+            ],
+            "hash": "a84bccb199c06eab72c9e18e7d915ad58a8cc347517d77e82cc7bf1191d4fdd7"
+        }
+    },
+    "homepage": "https://github.com/glassechidna/efsu",
+    "license": "MIT",
+    "description": "efsu is for accessing AWS EFS from your machine without a VPN"
+}
