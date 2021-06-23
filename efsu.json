@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glassechidna/efsu/releases/download/0.2.0/efsu_0.2.0_windows_amd64.tar.gz",
+            "url": "https://github.com/glassechidna/efsu/releases/download/0.2.1/efsu_0.2.1_windows_amd64.tar.gz",
             "bin": [
                 "efsu.exe"
             ],
-            "hash": "44ed05c116db74654fece61590e93ad4f7c48d65769b66fd9478fd112af751ab"
+            "hash": "30c6876920c137fccfc73d030cf8875c32626d7089a47b9d1e08b9a8a853d9df"
         }
     },
     "homepage": "https://github.com/glassechidna/efsu",
